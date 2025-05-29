@@ -1,0 +1,21 @@
+{
+  "name": "bouncing-cheese-wedge",
+  "version": "1.0.0",
+  "description": "A fun webpage with a bouncing cheese wedge",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "express": "^4.18.2"
+  },
+  "keywords": [
+    "cheese",
+    "animation",
+    "3D",
+    "canvas"
+  ],
+  "author": "",
+  "license": "ISC"
+}
